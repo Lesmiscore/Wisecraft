@@ -4,6 +4,11 @@ For privacy policy, [click here](https://gist.github.com/nao20010128nao/8cb7af38
     
 Wisecraft is a MC/MCPE server ping app for Android devices.   
 
+# Bug report
+[Here](https://github.com/nao20010128nao/Wisecraft/issues/new) for all about Wisecraft and WRcon except for translation.     
+[Here](https://github.com/nao20010128nao/Wisecraft-Multilanguage/issues/new) for translation.    
+Especially about [i18n](https://github.com/nao20010128nao/Wisecraft-Multilanguage) repository, pull request is also accepted.     
+
 # Requirements
 ## below Wisecraft 2.x
 - Android 2.3 or above (API 8)
