@@ -22,3 +22,11 @@ Especially about [i18n](https://github.com/nao20010128nao/Wisecraft-Multilanguag
 
 # Licenses for libraries
 [Click here](https://github.com/nao20010128nao/Wisecraft/blob/master/OPEN_SOURCE_LICENSES.md)
+
+# License
+## Before 4.0
+Original license which limits the following thing is applied:
+- No commercial use
+
+## Below 4.1
+CC BY-NC-ND 4.0 is applied. See [here](https://github.com/nao20010128nao/Wisecraft/blob/master/LICENSE.md) for details.
